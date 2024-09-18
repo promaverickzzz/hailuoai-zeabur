@@ -1,0 +1,2 @@
+# hailuoai-zeabur
+Hailuo AI
